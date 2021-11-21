@@ -1,0 +1,14 @@
+● src
++---● app
+|   +--● product-categories
+|   |  |--product-categories.component.ts|.html
+|   |  +--● category-detail-form
+|   |  |  |--category-detail-form.component.ts|.html
+|   |  
+|   +--● shared
+|   |  |--category-detail.service.ts
+|   |  |--category-detail.model.ts
+|   |
+|   |--app.module.ts
+|
+|--index.html (cdn path for bootstrap & fa icons)
